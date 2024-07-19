@@ -4,6 +4,9 @@
     <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&repeat=false&width=435&lines=Nghia+Nghia&vCenter=true" alt="Typing SVG" /></a>
   <br/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=571FF7&width=435&lines=.NET+DEVELOPER;Can+Do+Attitude+!;Always+Adapt+New+Things" alt="Typing SVG" /></a>
+  <img  width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF6aW9sMnNtNHdvanhwZXVma3piMW16M2tyc3U0cW5kdnl2bzNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" />
+
+   
 </p>
 
 
@@ -31,11 +34,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nghia0coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" width="auto" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghia0coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="auto" alt="languages graph"  />
-    <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FzNnBnejlhazNrcHRsZzltbXYzbm5oNTR3aDRnYnNmajlkbmhpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JdyQWFOVo6s5G/giphy.gif"  />
+    
 </div>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FzNnBnejlhazNrcHRsZzltbXYzbm5oNTR3aDRnYnNmajlkbmhpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JdyQWFOVo6s5G/giphy.gif"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nghia0coder&icon=0&color=0)](https://visitcount.itsvg.in)
