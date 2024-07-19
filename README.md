@@ -1,6 +1,6 @@
 ## NGHIA NGHIA 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9822F7&width=435&lines=.NET+DEVELOPER;Always+Learning+Attitude;KEEP+HYDRARED+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9822F7&width=435&lines=.NET+DEVELOPER;Always+Learning+Attitude;KEEP+HYDRATED+!" alt="Typing SVG" /></a>
 <!--
 **nghia0coder/nghia0coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
