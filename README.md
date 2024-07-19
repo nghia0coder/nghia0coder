@@ -4,7 +4,7 @@
     <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&repeat=false&width=435&lines=Nghia+Nghia&vCenter=true" alt="Typing SVG" /></a>
   <br/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=571FF7&width=435&lines=.NET+DEVELOPER;Can+Do+Attitude+!;Always+Adapt+New+Things" alt="Typing SVG" /></a>
-  <img  width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF6aW9sMnNtNHdvanhwZXVma3piMW16M2tyc3U0cW5kdnl2bzNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" />
+
 
    
 </p>
