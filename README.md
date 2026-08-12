@@ -13,7 +13,7 @@
 
 # 💫About Me :
 <h2>
-  I am currently a university student in Vietnam and am on a journey to become a Software Engineer
+  Junior Software Engineer
 </h2>
 
 
